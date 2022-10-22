@@ -1,5 +1,5 @@
-#ifndef _ARENA_COMMON_STL_HPP_
-#define _ARENA_COMMON_STL_HPP_
+#ifndef _ARENA_COMMON_STD_HPP_
+#define _ARENA_COMMON_STD_HPP_
 
 #include <cstdint>
 
@@ -9,4 +9,4 @@
 
 #include <stdexcept>
 
-#endif  // _ARENA_COMMON_STL_HPP_
+#endif  // _ARENA_COMMON_STD_HPP_
